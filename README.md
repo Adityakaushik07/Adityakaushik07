@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🚀 Aspiring Software Engineer | BTech CSE | Final Year
 
-<!--
-**Adityakaushik07/Adityakaushik07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🔗 Tech Stack:**  
+JavaScript | React | Node.js | MongoDB | Linux
 
-Here are some ideas to get you started:
+**🌟 Passionate About:**  
+Learning and applying full-stack development skills to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💡 On a Mission:**  
+To explore new technologies, contribute to open-source, and build a strong foundation in software engineering.
+
+**🎓 Currently:**  
+Focusing on enhancing my skills and working on personal projects during my final year of BTech CSE.
+
+---
+
+🌐 [Your Portfolio/Website] | ✉️ [kaushikaditya985@gmail.com]
