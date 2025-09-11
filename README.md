@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Kaushik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Mern Stack (React Node Express MongoDB) MySQL**
+- 🌱 I’m currently learning **Mern Stack (React Node Express MongoDB)**
 
 - 📫 How to reach me **kaushikaditya985@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gd4aY7XL4SjMyj93JLgazY3i3gOXb0CN/view?usp=drive_link](https://drive.google.com/file/d/1gd4aY7XL4SjMyj93JLgazY3i3gOXb0CN/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
