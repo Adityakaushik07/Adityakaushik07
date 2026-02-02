@@ -1,14 +1,13 @@
-# 💫 About Me
-
-🔭 I’m currently working as a **Frontend Developer**  
-🌱 Currently learning **React, Java, and DSA**  
-⚡ Fun fact: I think I've got a decent sense of humor 😂
+# 💫 About Me  
+🔭 I’m currently working as a Frontend Developer  
+🌱 Learning React, Java & DSA  
+⚡ Rumor has it I have a decent sense of humor 😂  
 
 ---
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityakaushik07)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikaditya983@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikaditya983@gmail.com)
 
 ---
 
@@ -22,15 +21,15 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Adityakaushik07&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Adityakaushik07&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Adityakaushik07&theme=onedark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Adityakaushik07&theme=default&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakaushik07&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakaushik07&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Created with GPRM (https://gprm.itsvg.in) -->
